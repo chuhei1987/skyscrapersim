@@ -12,3 +12,6 @@ obtained and added to this repository.
 There is no currently known copy of Alpha 11 for Linux. However, the Windows
 version runs fine using WINE, so if you need features from Alpha 11 you can use
 this solution.
+
+## About source code
+We have read a set of code from a person, but only dated on 2017, I still need figuring how to prepare needed environment
